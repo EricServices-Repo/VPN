@@ -1,6 +1,6 @@
 # EricServices-VPN-Server
 Installation Script to Install:  
-**OpenVPN** - VPN Server. 
+**OpenVPN** - VPN Server  
 
 # Features  
 OpenVPN Server  
